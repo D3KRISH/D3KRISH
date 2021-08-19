@@ -1,6 +1,6 @@
                      
-### ⚡ HELLO ⚡
-![D3KRISHLOGO](https://telegra.ph/file/664de3d5f52b645c3a8ca.jpg)
+### ⚡ нєℓℓσ ⚡
+
 ### About 🙋🏻‍♂️
 ```python
 𝐍𝐀𝐌𝐄 = 𝐊𝐑𝐈𝐒𝐇 💖
@@ -11,13 +11,15 @@
 
 [![telegram badge](https://img.shields.io/badge/CONTACT-ME-30302f?style=for-the-badge&logo=telegram)](https://t.me/D3_krish)
 
-
+###
+```
 - 😄𝐈 𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 𝐆𝐈𝐓 & 𝐆𝐈𝐓𝐇𝐔𝐁
 - 🥰𝐏𝐘𝐓𝐇𝐎𝐍 𝐋𝐎𝐕𝐄𝐑
 - ⚜️𝐌𝐎𝐒𝐓 𝐎𝐅 𝐌𝐘 𝐑𝐄𝐏𝐎'𝐒 𝐀𝐑𝐄 𝐅𝐎𝐑 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌
-
+'
+```
+###
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=D3KRISH&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=D3KRISH&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&theme=tokyonight&hide=batchfile">
 
 <h4 align="center"><b> GITHUB STATS -💛</b></h4>
 
