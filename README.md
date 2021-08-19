@@ -18,6 +18,8 @@
 ```
 ###
 [![telegram badge](https://img.shields.io/badge/CONTACT-ME-30302f?style=for-the-badge&logo=telegram)](https://t.me/D3_krish)
+<p
+  align='middle'><img src='https://komarev.com/ghpvc/?username=D3KRISH&label=My%20Project%20Award's&color=blueviolet&style=plastic' width='175"'></p>
 
 <h4 align="center"><b> GITHUB STATS -💛</b></h4>
 
@@ -25,9 +27,6 @@
 
   <img src='https://github-readme-stats.vercel.app/api?username=D3KRISH&show_icons=true&theme=midnight-purple' width='500"'></p>
   <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=D3KRISH&theme=midnight-purple&show_icon=true' width='500"'></p> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&layout=compact&theme=radical)](https://github.com/D3KRISH)<p
-  align='middle'><img src='https://komarev.com/ghpvc/?username=D3KRISH&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
-
 
 
 ---
