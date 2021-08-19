@@ -24,13 +24,16 @@
 
 ![D3KRISH Git Stats](https://github-readme-stats.vercel.app/api?username=D3KRISH&include_all_commits=true&count_private=true&theme=highcontrast)
 
+##  D3KRISH GIT STAT'S 📊<p align='middle'>
+  <img src='https://github-readme-stats.vercel.app/api?username=madboy482&show_icons=true&theme=midnight-purple' width='500"'></p>
+  <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=D3KRISH&theme=midnight-purple&show_icon=true' width='500"'></p> <p
+  align='middle'><img src='https://komarev.com/ghpvc/?username=D3KRISH&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&layout=compact&theme=radical)](https://github.com/D3KRISH)
 
 
 ---
 
-<details>
 ## My Tools ⚙️
   <p align='middle'>
     <code><a href="https://git-scm.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </a></code>
@@ -49,7 +52,6 @@
     <code><a href="https://telegram.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"> </a></code>
     <br>
       </p>  
-</details>
 
 ---
 
