@@ -22,10 +22,7 @@
 
 <h4 align="center"><b> GITHUB STATS -💛</b></h4>
 
-![D3KRISH Git Stats](https://github-readme-stats.vercel.app/api?username=D3KRISH&include_all_commits=true&count_private=true&theme=highcontrast)
-
-##  D3KRISH GIT STAT'S 📊<p align='middle'>
-  <img src='https://github-readme-stats.vercel.app/api?username=madboy482&show_icons=true&theme=midnight-purple' width='500"'></p>
+  <img src='https://github-readme-stats.vercel.app/api?username=D3KRISH&show_icons=true&theme=midnight-purple' width='500"'></p>
   <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=D3KRISH&theme=midnight-purple&show_icon=true' width='500"'></p> <p
   align='middle'><img src='https://komarev.com/ghpvc/?username=D3KRISH&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
 
