@@ -6,14 +6,9 @@
 𝐍𝐀𝐌𝐄 = 𝐊𝐑𝐈𝐒𝐇 💖
 𝐈 𝐀𝐌 = 𝐇𝐔𝐌𝐀𝐍 😂
 𝐂𝐎𝐔𝐍𝐓𝐑𝐘 = "🇮🇳"
-```
-#### 
 [![telegram badge](https://img.shields.io/badge/CONTACT-ME-30302f?style=for-the-badge&logo=telegram)](https://t.me/D3_krish)
-<a href="https://t.me/D3VIL_BOT_SUPPORT"><img src="https://img.shields.io/badge/Join-Support%20GROUP-blue.svg?style=for-the-badge&logo=Telegram"></a>
-
-<a href="https://t.me/D3VIL_SUPPORT"><img src="https://img.shields.io/badge/Join-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=D3KRISH&label=Profile%20Views&color=red&style=flat-square" alt="CyberBoyAyush" /> </p>
+```
+###
 
 - 😄𝐈 𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 𝐆𝐈𝐓 & 𝐆𝐈𝐓𝐇𝐔𝐁
 - 🥰𝐏𝐘𝐓𝐇𝐎𝐍 𝐋𝐎𝐕𝐄𝐑
