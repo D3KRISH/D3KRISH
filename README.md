@@ -16,6 +16,8 @@
 - 🥰𝐏𝐘𝐓𝐇𝐎𝐍 𝐋𝐎𝐕𝐄𝐑
 - ⚜️𝐌𝐎𝐒𝐓 𝐎𝐅 𝐌𝐘 𝐑𝐄𝐏𝐎'𝐒 𝐀𝐑𝐄 𝐅𝐎𝐑 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌
 
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=D3KRISH&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=D3KRISH&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&theme=tokyonight&hide=batchfile">
 
 <h4 align="center"><b> GITHUB STATS -💛</b></h4>
 
