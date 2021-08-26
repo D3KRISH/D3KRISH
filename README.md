@@ -25,7 +25,8 @@
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=D3KRISH&theme=dracula&count_private=true"></div>
 
-  <img src='https://github-readme-stats.vercel.app/api?username=D3KRISH&show_icons=true&theme=midnight-purple' width='500"'></p>
+ ![D3KRISH GitHub stats](https://github-readme-stats.vercel.app/api?username=D3KRISH&show_icons=true&theme=radical)
+
   <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=D3KRISH&theme=midnight-purple&show_icon=true' width='500"'></p> 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&theme=tokyonight&hide=batchfile">
