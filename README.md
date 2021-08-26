@@ -32,6 +32,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&hide=javascript,html)](https://github.com/D3KRISH/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=D3KRISH)](https://github.com/D3KRISH/github-readme-stats)
+
+
 ---
 
 ## My Tools ⚙️
