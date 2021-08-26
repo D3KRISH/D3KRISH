@@ -30,6 +30,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&theme=tokyonight&hide=batchfile">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&hide=javascript,html)](https://github.com/D3KRISH/github-readme-stats)
+
 ---
 
 ## My Tools ⚙️
