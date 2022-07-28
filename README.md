@@ -16,26 +16,12 @@
 - ⚜️𝐌𝐎𝐒𝐓 𝐎𝐅 𝐌𝐘 𝐑𝐄𝐏𝐎'𝐒 𝐀𝐑𝐄 𝐅𝐎𝐑 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌
 '
 ```
-###
-<p
-  align='middle'><img src='https://komarev.com/ghpvc/?username=D3KRISH&label=My%20Project%20Award's&color=blueviolet&style=plastic' width='175"'></p>
-
-<h4 align="center"><b> GITHUB STATS -💛</b></h4>
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=D3KRISH&theme=dracula&count_private=true"></div>
-
- ![D3KRISH GitHub stats](https://github-readme-stats.vercel.app/api?username=D3KRISH&show_icons=true&theme=radical)
-
-  <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=D3KRISH&theme=midnight-purple&show_icon=true' width='500"'></p> 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&theme=tokyonight&hide=batchfile">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&hide=javascript,html,ruby)](https://github.com/D3KRISH/github-readme-stats)
+## 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂
 
 
 
----
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={D3KRISH}&theme=vue
+
+![GRAPH](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={D3KRISH}&theme=vue)
 
 ## 𝙼𝚈 𝚃𝙾𝙾𝙻𝚂 ⚙️
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
