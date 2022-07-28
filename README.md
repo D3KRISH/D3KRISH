@@ -17,7 +17,6 @@
 '
 ```
 ###
-[![telegram badge](https://img.shields.io/badge/CONTACT-ME-30302f?style=for-the-badge&logo=telegram)](https://t.me/D3_krish)
 <p
   align='middle'><img src='https://komarev.com/ghpvc/?username=D3KRISH&label=My%20Project%20Award's&color=blueviolet&style=plastic' width='175"'></p>
 
@@ -38,26 +37,10 @@
 ---
 
 ## My Tools ⚙️
-  <p align='middle'>
-    <code><a href="https://git-scm.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </a></code>
-    <code><a href="https://www.python.org/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </a></code>
-    <code><a href="https://heroku.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </a></code>
-    <br />
-    <code><a href="https://www.mysql.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </a></code>
-    <code><a href="https://redis.io/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"> </a></code>
-    <code><a href="https://firebase.google.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </a></code>
-    <br />
-    <code><a href="https://www.mongodb.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </a></code>
-    <code><a href="https://github.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> </a></code>
-    <code><a href="https://gitlab.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"> </a></code>
-    <br />
-    <code><a href="https://www.postgresql.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </a></code>
-    <code><a href="https://telegram.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"> </a></code>
-    <br>
-      </p>  
+[![telegram badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]  
 
 ---
-
+## 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 
 [![telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/D3_krish)
-
+[![gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](legendmaster0535@gmail.com)
 
