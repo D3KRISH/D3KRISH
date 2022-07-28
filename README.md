@@ -21,7 +21,7 @@
 
 
 
-![GRAPH](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={D3KRISH}&theme=vue)
+![GRAPH](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D3KRISH&theme=vue)
 
 ## 𝙼𝚈 𝚃𝙾𝙾𝙻𝚂 ⚙️
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
