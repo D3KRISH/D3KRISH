@@ -37,7 +37,7 @@
 ---
 
 ## My Tools ⚙️
-[![telegram badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]  
+![telegram badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 ---
 ## 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 
