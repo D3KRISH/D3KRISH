@@ -1,6 +1,6 @@
                      
 ### ⚡ нєℓℓσ ⚡
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines= 𝗪𝗘𝗟𝗖𝗢𝗡𝗘+𝗧𝗢+𝗠𝗬+𝗣𝗧𝗢𝗙𝗜𝗟𝗘.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎)](https://git.io/typing-svg)
 
 <p align="center">
 <img src="https://telegra.ph/file/a029122be2bfc113814bc.jpg" alt="nz" width="350"/>
