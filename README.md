@@ -23,7 +23,7 @@
 
 ![AWARD](https://github-profile-trophy.vercel.app/?username=D3KRISH)
 ![STATS](https://github-readme-stats.vercel.app/api?username=D3KRISH)
-![LANGUAGE](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&layout=compact&theme=radical)](https://github.com/D3KRISH)
 
 ![GRAPH](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D3KRISH&theme=vue)
 ![BADGE]( https://github-readme-streak-stats.herokuapp.com/?user=D3KRISH)
